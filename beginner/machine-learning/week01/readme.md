@@ -2,4 +2,4 @@
 Introduction to Artificial Intelligence
 
 Slide:<br/>
-[![Google Colab](https://badgen.net/badge/Open/slide/yellow)](https://docs.google.com/presentation/d/1cPH9wZ7fx-QsALDmPnPXn0RyJyKsByshwFHCjtgvLpk/edit?usp=sharing)
+[![Google Colab](https://badgen.net/badge/Open/slide/yellow)](https://github.com/AISaturdaysLagos/Cohort4/blob/master/beginner/machine-learning/week01/Introduction%20to%20AI.pdf)
