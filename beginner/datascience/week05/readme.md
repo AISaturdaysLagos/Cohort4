@@ -11,6 +11,8 @@ List Slicing: https://www.youtube.com/watch?v=ajrtAuDg3yw&list=PL-osiE80TeTt2d9b
 
 List Sorting , tuples & object : https://www.youtube.com/watch?v=D3JvDWO-BY4&list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU&index=21
 
+Function: https://www.youtube.com/watch?v=9Os0o3wzS_I&list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU&index=8
+
 
 
 
