@@ -1,7 +1,7 @@
 # Week 12: GANs
 
 Slide:<br/>
-[![Google Colab](https://badgen.net/badge/cs231n/lecture13/red)](http://cs231n.stanford.edu/slides/2017/cs231n_2017_lecture12.pdf)
+[![Slide](https://badgen.net/badge/cs231n/lecture13/red)](http://cs231n.stanford.edu/slides/2017/cs231n_2017_lecture13.pdf)
 
 
 Notebook:<br/>
