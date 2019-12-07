@@ -1,4 +1,4 @@
-# week 1
+# week 1: Introduction and linear algebra
 [![Slide](https://badgen.net/badge/open/Slide/orange)](https://docs.google.com/forms/d/10R58VviqEVTDb_g0zDM5xa0-tV4RHlh3kHEfq2-eR98)
 
 ### linear algebra resources
